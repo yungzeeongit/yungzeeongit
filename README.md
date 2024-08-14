@@ -36,6 +36,8 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
+         <li>PHP</li>
+         <li>Laravel</li>
         <li>ReactJS</li>
         <li>Vue3</li>
         <li>Bootstrap</li>
